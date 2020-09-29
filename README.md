@@ -1,2 +1,2 @@
 # Fresh
-This repository is used to test push pull process
+This Repository is used to test push pull process
